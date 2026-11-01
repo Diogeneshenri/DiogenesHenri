@@ -22,6 +22,7 @@ Ferramentas: Git, GitHub, IntelliJ IDEA, VS Code e MySQL.
 
 Projetos acadêmicos
 Projeto Farol: aplicação voltada à assistência comunitária e à comunicação em situações de emergência.
+
 Central Descartáveis: projeto de monitoramento inteligente de resíduos, com proposta de utilização de tecnologia para melhorar a gestão ambiental.
 Atualmente estudando
 
