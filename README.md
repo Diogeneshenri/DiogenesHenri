@@ -14,6 +14,28 @@ Cloud Computing
 Escola da Nuvem
 Estudos em AWS, Azure, Linux, redes e infraestrutura em nuvem.
 
+Linguagens e desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
+
+Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+Cloud e infraestrutura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
+</p>
+
+<a href="https://www.linkedin.com/in/diogenes-henrique-souza/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 
 
 
