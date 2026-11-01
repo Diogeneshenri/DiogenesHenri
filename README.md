@@ -14,32 +14,8 @@ Cloud Computing
 Escola da Nuvem
 Estudos em AWS, Azure, Linux, redes e infraestrutura em nuvem.
 
-Conhecimentos técnicos
-Linguagens: Java, JavaScript, SQL, HTML5 e CSS3.
-Cloud: AWS, Azure, EC2, S3, IAM, VPC, CloudWatch e CloudTrail.
-Sistemas e redes: Linux, TCP/IP e infraestrutura.
-Ferramentas: Git, GitHub, IntelliJ IDEA, VS Code e MySQL.
 
-Projetos acadêmicos
-Projeto Farol: aplicação voltada à assistência comunitária e à comunicação em situações de emergência.
 
-Central Descartáveis: projeto de monitoramento inteligente de resíduos, com proposta de utilização de tecnologia para melhorar a gestão ambiental.
-Atualmente estudando
 
-Java e Programação Orientada a Objetos.
 
-AWS Cloud Practitioner.
 
-Linux e redes de computadores.
-
-Banco de dados e SQL.
-
-Fundamentos de Cibersegurança.
-
-Objetivo profissional
-
-Desenvolver minha carreira na área de Tecnologia da Informação, com foco em desenvolvimento Java, computação em nuvem e segurança da informação.
-
-Contato
-
-LinkedIn: https://www.linkedin.com/in/diogenes-henrique-souza/
