@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="360" viewBox="0 0 320 360" role="img" aria-label="Bonequinho AWS Cyber flutuando e acenando">
+<title>Bonequinho AWS Cyber — acenando e flutuando</title>
+<defs>
+ <linearGradient id="suit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#254968"/><stop offset="1" stop-color="#0a1b2e"/></linearGradient>
+ <linearGradient id="visor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#73f4f0"/><stop offset="1" stop-color="#138da8"/></linearGradient>
+ <linearGradient id="fire" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff5a0"/><stop offset=".45" stop-color="#ff9900"/><stop offset="1" stop-color="#ff9900" stop-opacity="0"/></linearGradient>
+ <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<style>
+ .hover{animation:hover 3.1s ease-in-out infinite;transform-origin:160px 180px}
+ .wave{animation:wave 1.65s ease-in-out infinite;transform-origin:210px 166px}
+ .flame{animation:flame .55s ease-in-out infinite alternate;transform-origin:center top}
+ .blink{animation:blink 5s infinite;transform-origin:center}
+ .spark{animation:spark 2.6s ease-in-out infinite alternate}
+ @keyframes hover{0%,100%{transform:translateY(5px)}50%{transform:translateY(-9px)}}
+ @keyframes wave{0%,100%{transform:rotate(-8deg)}30%{transform:rotate(21deg)}60%{transform:rotate(-13deg)}80%{transform:rotate(14deg)}}
+ @keyframes flame{from{transform:scaleY(.76);opacity:.75}to{transform:scaleY(1.12);opacity:1}}
+ @keyframes blink{0%,43%,47%,100%{transform:scaleY(1)}45%{transform:scaleY(.12)}}
+ @keyframes spark{from{opacity:.25}to{opacity:1}}
+ @media (prefers-reduced-motion:reduce){.hover,.wave,.flame,.blink,.spark{animation:none}}
+</style>
+<!-- background intentionally transparent -->
+<ellipse cx="158" cy="325" rx="58" ry="9" fill="#00cbd7" opacity=".13"/>
+<g class="spark" fill="#ff9900"><path d="M55 104l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><circle cx="268" cy="93" r="3"/><path d="M251 230l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/></g>
+<g class="hover">
+ <!-- jet flames -->
+ <g class="flame"><path d="M121 274 Q105 303 124 323 Q143 301 134 274Z" fill="url(#fire)"/><path d="M181 274 Q165 303 184 323 Q203 301 194 274Z" fill="url(#fire)"/></g>
+ <!-- boots -->
+ <path d="M110 258 L142 258 L141 287 Q132 297 106 289 L101 280Z" fill="#10283c" stroke="#49d7dc" stroke-width="2.5"/>
+ <path d="M171 258 L202 257 L211 279 Q210 292 183 293 L174 284Z" fill="#10283c" stroke="#49d7dc" stroke-width="2.5"/>
+ <path d="M104 282 Q121 289 141 283M176 284 Q191 289 208 282" stroke="#ff9900" stroke-width="4" fill="none" stroke-linecap="round"/>
+ <!-- legs -->
+ <path d="M118 222L111 265Q125 277 142 267L153 236M166 234L176 267Q194 278 201 263L193 221" fill="url(#suit)" stroke="#42bdc7" stroke-width="3" stroke-linejoin="round"/>
+ <!-- left arm -->
+ <path d="M110 168 Q82 166 76 193 L88 213 Q98 205 103 195 L125 191" fill="url(#suit)" stroke="#49d7dc" stroke-width="3"/>
+ <circle cx="85" cy="213" r="14" fill="#ffb878" stroke="#17334b" stroke-width="3"/>
+ <!-- body -->
+ <path d="M119 154 Q159 141 198 157 L207 233 Q162 255 109 232Z" fill="url(#suit)" stroke="#52d6dd" stroke-width="3.5"/>
+ <path d="M133 163 Q159 173 184 163 L179 186 Q157 195 137 185Z" fill="#0c2638" stroke="#ff9900" stroke-width="2"/>
+ <rect x="130" y="196" width="60" height="29" rx="11" fill="#081b2b" stroke="#3fd6d8" stroke-width="2"/>
+ <text x="160" y="215" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#ff9900" text-anchor="middle">AWS</text>
+ <circle cx="118" cy="214" r="4" fill="#ff9900"/><circle cx="202" cy="215" r="4" fill="#4ae5e4"/>
+ <!-- waving right arm, attached at shoulder -->
+ <g class="wave">
+ <path d="M199 160 Q224 154 236 132 L250 112 Q257 107 265 116 Q269 124 260 135 L244 171 Q233 189 207 192Z" fill="url(#suit)" stroke="#49d7dc" stroke-width="3.5" stroke-linejoin="round"/>
+ <path d="M249 117 Q241 108 245 96 Q248 88 254 97 L256 83 Q260 76 265 84 L268 94 Q270 81 276 86 L278 98 Q284 89 289 96 L285 116 Q283 128 265 135Z" fill="#ffbf8a" stroke="#17334b" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M256 106 L260 116" stroke="#d28d62" stroke-width="2" stroke-linecap="round"/>
+ </g>
+ <!-- neck -->
+ <rect x="145" y="139" width="30" height="25" rx="10" fill="#ffc394" stroke="#17334b" stroke-width="3"/>
+ <!-- head big cute character -->
+ <rect x="105" y="63" width="110" height="100" rx="43" fill="#ffcb9c" stroke="#17334b" stroke-width="4"/>
+ <path d="M110 111 Q112 67 157 68 Q202 68 210 112 Q202 91 190 91 Q156 109 113 99Z" fill="#122c42"/>
+ <ellipse cx="131" cy="125" rx="10" ry="6" fill="#ff9c8c" opacity=".55"/><ellipse cx="189" cy="125" rx="10" ry="6" fill="#ff9c8c" opacity=".55"/>
+ <g class="blink" fill="#153044"><ellipse cx="140" cy="115" rx="5" ry="7"/><ellipse cx="181" cy="115" rx="5" ry="7"/></g>
+ <path d="M149 136 Q160 146 172 136" fill="none" stroke="#a9564b" stroke-width="3" stroke-linecap="round"/>
+ <!-- cap -->
+ <path d="M101 90 Q103 39 158 39 Q212 39 217 91 L216 98 L102 98Z" fill="#0d273b" stroke="#52d6dd" stroke-width="3.5"/>
+ <path d="M111 73 Q158 55 208 74" stroke="#ff9900" stroke-width="5" fill="none" stroke-linecap="round"/>
+ <rect x="136" y="54" width="48" height="27" rx="8" fill="#ff9900"/>
+ <text x="160" y="72" font-family="Arial,sans-serif" font-size="17" font-weight="900" fill="#10273a" text-anchor="middle">aws</text>
+ <path d="M101 95 Q164 83 230 99 Q229 114 198 112 L110 109 Q97 108 101 95Z" fill="#122e46" stroke="#52d6dd" stroke-width="3"/>
+ <path d="M144 80 Q162 87 179 80" fill="none" stroke="#ff9900" stroke-width="2"/>
+</g>
+</svg>
