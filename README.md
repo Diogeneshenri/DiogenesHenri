@@ -10,6 +10,16 @@
 
 <br>
 
+<!-- MEU PERFIL PROFISSIONAL | AWS CYBER -->
+<div align="center">
+  <img src="./ficha-perfil-aws-cyber.svg"
+       width="100%"
+       alt="Meu perfil profissional e transição de carreira">
+</div>
+
+<br>
+
+
 <!-- 2. SERVIÇOS AWS -->
 <img src="./aws-servicos.svg" width="100%" alt="Meus estudos em AWS">
 
