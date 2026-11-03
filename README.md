@@ -1,55 +1,24 @@
-
 <div align="center">
-  <img src="./banner-aws-estudante.svg" width="100%" alt="Banner AWS Cloud - DIOGENES HENRIQUE">
-</div> 
 
+<img src="./banner-aws-estudante.svg" width="100%" alt="DIOGENES HENRIQUE - AWS Cloud">
 
+<img src="./aws-servicos.svg" width="100%" alt="Meus estudos em AWS">
 
+<img src="./linguagens.svg" width="100%" alt="Linguagens e tecnologias">
 
-<div align="center">
-  <img src="./aws-servicos%20(2).svg" width="100%" alt="Meus estudos em AWS Cloud">
+<img src="./ferramentas.svg" width="100%" alt="Ferramentas e ambientes">
+
+<img src="./progresso.svg" width="100%" alt="Minha evolução em tecnologia">
+
+<img src="./certificacoes-progresso.svg" width="100%" alt="Metas de certificações AWS">
+
+<img src="./projetos.svg" width="100%" alt="Meus projetos">
+
+**[Projeto Farol](https://github.com/Diogeneshenri/projeto-farol-seguranca) · [Laboratórios AWS](https://github.com/Diogeneshenri/aws-cloud-portfolio)**
+
+<img src="./status.svg" width="100%" alt="Meu portfólio e evolução">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Diogeneshenri&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="Estatísticas GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogeneshenri&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Linguagens dos repositórios">
+
 </div>
-
-
-Estudante de Análise e Desenvolvimento de Sistemas na UNIBRA – Centro Universitário Brasileiro, atualmente no 2º período.
-
-Tenho interesse em desenvolvimento de software, computação em nuvem, infraestrutura e segurança da informação. Busco ampliar meus conhecimentos por meio de estudos, cursos e projetos práticos.
-
-Meu foco de desenvolvimento profissional está em Java, Cloud Computing e Cibersegurança.
-
-Formação
-Análise e Desenvolvimento de Sistemas
-UNIBRA – Centro Universitário Brasileiro
-Em andamento – 2º período.
-
-Cloud Computing
-Escola da Nuvem
-Estudos em AWS, Azure, Linux, redes e infraestrutura em nuvem.
-
-Linguagens e desenvolvimento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
-</p>
-
-Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
-Cloud e infraestrutura
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
-</p>
-
-<a href="https://www.linkedin.com/in/diogenes-henrique-souza/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-
-
-
-
-

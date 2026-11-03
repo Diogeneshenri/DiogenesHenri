@@ -1,0 +1,1 @@
+Envie TODOS os arquivos SVG e README.md para a raiz do repositório Diogeneshenri/Diogeneshenri. Faça backup do README atual antes de substituir. Evite nomes com (1) ou (2); se houver, ajuste os caminhos no README. Os percentuais são ilustrativos, não comprovação de certificações.
