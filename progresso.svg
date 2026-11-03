@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1130" viewBox="0 0 1000 1130" role="img" aria-label="Painel de evolução em AWS, programação e certificações de DIOGENES HENRIQUE">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071525"/><stop offset="1" stop-color="#15344a"/></linearGradient>
+ <linearGradient id="fire"><stop stop-color="#ff8b19"/><stop offset="1" stop-color="#ffd16d"/></linearGradient>
+ <linearGradient id="teal"><stop stop-color="#18b6b6"/><stop offset="1" stop-color="#69e2c2"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+ text{font-family:Arial,Helvetica,sans-serif} .white{fill:#f1f7fc}.muted{fill:#a6c3d3}.orange{fill:#ffae45}.small{font-size:15px}.card{fill:#10293c;stroke:#365c70;stroke-width:2}.gem{animation:float 3.7s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.twinkle{animation:blink 2.5s ease-in-out infinite}.bar{animation:show 1.7s ease-out both;transform-origin:left center;transform-box:fill-box}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}@keyframes blink{0%,100%{opacity:.25}50%{opacity:1}}@keyframes show{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+ </style>
+</defs>
+<rect width="1000" height="1130" rx="24" fill="url(#bg)"/>
+<rect x="22" y="22" width="956" height="1086" rx="20" fill="none" stroke="#41667a"/>
+<circle cx="61" cy="64" r="7" fill="#ff9900" class="twinkle"/><text x="84" y="72" font-size="31" font-weight="bold" class="white">MINHA EVOLUÇÃO EM TECNOLOGIA</text>
+<text x="62" y="105" font-size="17" class="muted">DIOGENES HENRIQUE  |  ADS • 2º período  |  AWS em formação</text>
+<text x="62" y="163" font-size="23" font-weight="bold" class="orange">01  •  TRILHA DE APRENDIZADO</text>
+<line x1="118" y1="213" x2="882" y2="213" stroke="#507187" stroke-width="7" stroke-linecap="round"/>
+<line x1="118" y1="213" x2="590" y2="213" stroke="url(#fire)" stroke-width="7" stroke-linecap="round"/>
+<g text-anchor="middle"><circle cx="150" cy="213" r="20" fill="#ff9900" stroke="#ffd37b" stroke-width="3"/><text x="150" y="220" fill="#071525" font-size="21" font-weight="bold">✓</text><text x="150" y="262" class="white" font-size="17" font-weight="bold">BASE EM TI</text><text x="150" y="285" class="muted small">Estudos e projetos</text>
+<circle cx="500" cy="213" r="20" fill="#ff9900" stroke="#ffd37b" stroke-width="3"/><text x="500" y="220" fill="#071525" font-size="21" font-weight="bold">✓</text><text x="500" y="262" class="white" font-size="17" font-weight="bold">TRILHA CLOUD</text><text x="500" y="285" class="muted small">Capgemini Start concluída</text>
+<circle cx="850" cy="213" r="20" fill="#10293c" stroke="#ff9900" stroke-width="4"><animate attributeName="r" values="18;22;18" dur="2.5s" repeatCount="indefinite"/></circle><text x="850" y="220" class="orange" font-size="21" font-weight="bold">…</text><text x="850" y="262" class="white" font-size="17" font-weight="bold">AWS CERTIFIED</text><text x="850" y="285" class="muted small">Cloud Practitioner • objetivo</text></g>
+<text x="62" y="352" font-size="23" font-weight="bold" class="orange">02  •  JOIAS DO CONHECIMENTO</text>
+<text x="62" y="379" font-size="15" class="muted">Marcos de aprendizado — não representam certificações oficiais</text>
+<!-- diamond cards -->
+<g><rect class="card" x="60" y="402" width="205" height="217" rx="18"/><rect class="card" x="285" y="402" width="205" height="217" rx="18"/><rect class="card" x="510" y="402" width="205" height="217" rx="18"/><rect class="card" x="735" y="402" width="205" height="217" rx="18"/></g>
+<g class="gem" stroke="#ffbd4d" stroke-width="2"><path d="M126 451 L154 426 L193 426 L221 451 L174 510 Z" fill="#ff9900"/><path d="M126 451 H221 M154 426 L164 451 L174 510 L184 451 L193 426" fill="none" stroke="#ffdf91"/><path d="M164 451 L174 426 L184 451" fill="#ffe08d"/></g>
+<g class="gem" stroke="#6be1e0" stroke-width="2" style="animation-delay:.4s"><path d="M351 451 L379 426 L418 426 L446 451 L399 510 Z" fill="#168f9e"/><path d="M351 451 H446 M379 426 L389 451 L399 510 L409 451 L418 426" fill="none" stroke="#a5f4ef"/><path d="M389 451 L399 426 L409 451" fill="#7fe7df"/></g>
+<g class="gem" stroke="#ffbd4d" stroke-width="2" style="animation-delay:.8s"><path d="M576 451 L604 426 L643 426 L671 451 L624 510 Z" fill="#ff9900"/><path d="M576 451 H671 M604 426 L614 451 L624 510 L634 451 L643 426" fill="none" stroke="#ffdf91"/><path d="M614 451 L624 426 L634 451" fill="#ffe08d"/></g>
+<g class="gem" stroke="#7e99b2" stroke-width="2" style="animation-delay:1.2s"><path d="M801 451 L829 426 L868 426 L896 451 L849 510 Z" fill="#324b64"/><path d="M801 451 H896 M829 426 L839 451 L849 510 L859 451 L868 426" fill="none" stroke="#aac2d6"/><path d="M839 451 L849 426 L859 451" fill="#68839d"/></g>
+<g text-anchor="middle"><text x="162" y="545" class="white" font-size="18" font-weight="bold">AWS LABS</text><text x="162" y="568" class="muted small">Práticas realizadas</text><text x="162" y="594" class="orange small">EM EVOLUÇÃO</text>
+<text x="387" y="545" class="white" font-size="18" font-weight="bold">JAVA / POO</text><text x="387" y="568" class="muted small">Estudos acadêmicos</text><text x="387" y="594" fill="#64e2cb" class="small">EM ESTUDO</text>
+<text x="612" y="545" class="white" font-size="18" font-weight="bold">CLOUD START</text><text x="612" y="568" class="muted small">Capgemini Start</text><text x="612" y="594" class="orange small">TRILHA CONCLUÍDA</text>
+<text x="837" y="545" class="white" font-size="18" font-weight="bold">CERTIFICAÇÃO</text><text x="837" y="568" class="muted small">AWS Cloud Practitioner</text><text x="837" y="594" class="muted small">AINDA NÃO OBTIDA</text></g>
+<text x="62" y="682" font-size="23" font-weight="bold" class="orange">03  •  MEU PROGRESSO NOS ESTUDOS</text>
+<text x="62" y="708" class="muted small">Percentuais ilustrativos de autoavaliação • não são notas ou resultados oficiais</text>
+<g font-size="18" class="white" font-weight="bold"><text x="64" y="760">AWS Cloud</text><text x="64" y="824">Java / POO</text><text x="64" y="888">Linux / Redes</text><text x="64" y="952">Python</text></g>
+<g fill="#233f53"><rect x="260" y="741" width="585" height="23" rx="11"/><rect x="260" y="805" width="585" height="23" rx="11"/><rect x="260" y="869" width="585" height="23" rx="11"/><rect x="260" y="933" width="585" height="23" rx="11"/></g>
+<g fill="url(#fire)" class="bar"><rect x="260" y="741" width="410" height="23" rx="11"/><rect x="260" y="805" width="322" height="23" rx="11"/></g>
+<g fill="url(#teal)" class="bar"><rect x="260" y="869" width="351" height="23" rx="11"/><rect x="260" y="933" width="176" height="23" rx="11"/></g>
+<g font-size="18" class="white" font-weight="bold"><text x="865" y="760">70%</text><text x="865" y="824">55%</text><text x="865" y="888">60%</text><text x="865" y="952">30%</text></g>
+<rect x="60" y="997" width="880" height="82" rx="14" fill="#10293c" stroke="#45677b"/>
+<text x="80" y="1028" font-size="19" font-weight="bold" class="orange">PRÓXIMA CONQUISTA</text><text x="80" y="1054" font-size="18" class="white">AWS Certified Cloud Practitioner  •  Preparação em andamento</text>
+<text x="500" y="1100" text-anchor="middle" class="muted" font-size="13">Estudar  •  Praticar  •  Evoluir</text>
+</svg>
