@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540">
+<rect width="1000" height="540" rx="22" fill="#081523"/>
+<rect x="24" y="24" width="952" height="492" rx="17" fill="none" stroke="#36566a" stroke-width="2"/>
+<circle cx="60" cy="63" r="7" fill="#ff9900"/>
+<text x="83" y="74" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="white">MEUS ESTUDOS EM AWS</text>
+<text x="84" y="102" font-family="Arial,sans-serif" font-size="17" fill="#ffb44b">Serviços que estou conhecendo e praticando em laboratório</text>
+<rect x="48" y="133" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="63" y="147" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="84" y="165" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">IAM</text>
+<text x="84" y="190" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Identidades e permissões</text>
+<circle cx="456" cy="156" r="5" fill="#ff9900"/>
+<rect x="513" y="133" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="528" y="147" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="549" y="165" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">EC2</text>
+<text x="549" y="190" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Servidores virtuais</text>
+<circle cx="921" cy="156" r="5" fill="#ff9900"/>
+<rect x="48" y="225" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="63" y="239" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="84" y="257" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">S3</text>
+<text x="84" y="282" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Armazenamento de objetos</text>
+<circle cx="456" cy="248" r="5" fill="#ff9900"/>
+<rect x="513" y="225" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="528" y="239" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="549" y="257" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">VPC</text>
+<text x="549" y="282" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Redes na nuvem</text>
+<circle cx="921" cy="248" r="5" fill="#ff9900"/>
+<rect x="48" y="317" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="63" y="331" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="84" y="349" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">CloudWatch</text>
+<text x="84" y="374" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Métricas, logs e alarmes</text>
+<circle cx="456" cy="340" r="5" fill="#ff9900"/>
+<rect x="513" y="317" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="528" y="331" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="549" y="349" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">CloudTrail</text>
+<text x="549" y="374" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Registro de atividades</text>
+<circle cx="921" cy="340" r="5" fill="#ff9900"/>
+<rect x="48" y="409" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="63" y="423" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="84" y="441" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">Systems Manager</text>
+<text x="84" y="466" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Gerenciamento de instâncias</text>
+<circle cx="456" cy="432" r="5" fill="#ff9900"/>
+<rect x="513" y="409" width="440" height="75" rx="12" fill="#102538" stroke="#345066" stroke-width="2"/>
+<rect x="528" y="423" width="5" height="47" rx="2" fill="#ff9900"/>
+<text x="549" y="441" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="white">Athena</text>
+<text x="549" y="466" font-family="Arial,sans-serif" font-size="15" fill="#b6cbd8">Consultas SQL em dados</text>
+<circle cx="921" cy="432" r="5" fill="#ff9900"/>
+<text x="500" y="508" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#84a9bd">APRENDENDO &#8226; PRATICANDO &#8226; EVOLUINDO</text>
+</svg>
