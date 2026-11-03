@@ -3,8 +3,10 @@
   <img src="./banner-aws-estudante.svg" width="100%" alt="Banner AWS Cloud - DIOGENES HENRIQUE">
 </div> 
 
+
+
 <div align="center">
-  <img src="./aws-servicos.svg" width="100%" alt="Meus estudos em AWS Cloud">
+  <img src="https://raw.githubusercontent.com/Diogeneshenri/Diogeneshenri/main/aws-servicos.svg" width="100%" alt="Meus estudos em AWS Cloud">
 </div>
 
 
