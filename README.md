@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- 1. BANNER PRINCIPAL -->
-<img src="./banner-aws-estudante.svg" width="100%" alt="DIOGENES HENRIQUE - Estudante ADS e AWS Cloud">
+
+<img src="./banner-aws-com-bonequinho.svg" width="100%">
 
 <br>
 
