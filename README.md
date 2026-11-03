@@ -5,8 +5,9 @@
 
 
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Diogeneshenri/Diogeneshenri/main/aws-servicos.svg" width="100%" alt="Meus estudos em AWS Cloud">
+  <img src="./aws-servicos%20(2).svg" width="100%" alt="Meus estudos em AWS Cloud">
 </div>
 
 
