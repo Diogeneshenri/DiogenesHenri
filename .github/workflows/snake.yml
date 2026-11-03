@@ -1,0 +1,29 @@
+
+name: AWS Cyber - Contribuicoes reais
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar animacao
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Diogeneshenri
+          outputs: |
+            dist/snake-aws-cyber.svg?color_snake=%23FF9900&color_dots=%230B1F33,%23184A5A,%230E8F94,%2327D9C0,%23FF9900
+
+      - name: Publicar animacao
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
