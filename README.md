@@ -10,12 +10,9 @@
 
 <br>
 
-<!-- MEU PERFIL PROFISSIONAL | AWS CYBER -->
-<div align="center">
-  <img src="./ficha-perfil-aws-cyber.svg"
-       width="100%"
-       alt="Meu perfil profissional e transição de carreira">
-</div>
+
+<img src="./ficha-meu-perfil-corrigida.svg" width="100%" alt="Meu perfil profissional">
+
 
 <br>
 
