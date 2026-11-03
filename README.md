@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="./banner-aws-estudante.svg" width="100%" alt="Banner AWS Cloud - DIOGENES HENRIQUE">
+</div>
+
 Estudante de Análise e Desenvolvimento de Sistemas na UNIBRA – Centro Universitário Brasileiro, atualmente no 2º período.
 
 Tenho interesse em desenvolvimento de software, computação em nuvem, infraestrutura e segurança da informação. Busco ampliar meus conhecimentos por meio de estudos, cursos e projetos práticos.
