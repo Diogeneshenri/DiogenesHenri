@@ -49,12 +49,16 @@
 
 <br>
 
-<!-- 9. ESTATÍSTICAS DO GITHUB -->
-<img src="https://github-readme-stats.vercel.app/api?username=Diogeneshenri&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" width="49%" alt="Estatísticas do GitHub">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogeneshenri&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" width="49%" alt="Linguagens dos repositórios">
+<!-- 9. ESTATÍSTICAS DO GITHUB | AWS | CODE |  -->
+<div align="center">
 
-<br>
+<h2>⚡ MINHAS CONTRIBUIÇÕES | AWS | CODE </h2>
+
+<img src="https://raw.githubusercontent.com/Diogeneshenri/Diogeneshenri/output/snake-aws-cyber.svg" width="100%" alt="Minhas contribuições reais no GitHub">
+
+</div>
+
 
 <!-- 10. CONTATO -->
 <a href="https://github.com/Diogeneshenri">
