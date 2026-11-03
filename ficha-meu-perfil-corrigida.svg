@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-label="Ficha AWS Cyber de Diógenes Henrique: Analista de Suporte em transição para Cloud Computing e Infraestrutura">
+<title>MEU PERFIL</title>
+<defs>
+<linearGradient id="panel-bg" x2="1" y2="1"><stop stop-color="#071624"/><stop offset="1" stop-color="#11334b"/></linearGradient>
+<linearGradient id="stripe" x2="1"><stop stop-color="#ff9900"/><stop offset="1" stop-color="#34cbd6"/></linearGradient>
+</defs>
+<style>
+.title{font:800 30px Arial,sans-serif;fill:#fff;letter-spacing:1px}
+.sub{font:600 12px Arial,sans-serif;fill:#55dce3;letter-spacing:1.5px}
+.label{font:700 12px Arial,sans-serif;fill:#ffad31;letter-spacing:.4px}
+.value{font:500 14px Arial,sans-serif;fill:#e8f3f7}
+.desc{font:500 15px Arial,sans-serif;fill:#c2d8e2}
+.blink{animation:blink 2.2s ease-in-out infinite}@keyframes blink{50%{opacity:.25}}
+</style>
+<rect x="3" y="3" width="994" height="614" rx="24" fill="url(#panel-bg)" stroke="#2c6d83" stroke-width="2"/>
+<rect x="18" y="18" width="964" height="584" rx="18" fill="none" stroke="#244c62"/>
+<rect x="30" y="28" width="940" height="5" rx="2" fill="url(#stripe)"/>
+<circle cx="50" cy="58" r="5" fill="#ff9900"/><circle cx="66" cy="58" r="5" fill="#4fd6d3"/><circle cx="82" cy="58" r="5" fill="#356a81"/>
+<text x="42" y="102" class="title">MEU PERFIL</text>
+<text x="43" y="125" class="sub">SUPORTE TÉCNICO  /  CLOUD COMPUTING  /  INFRAESTRUTURA</text>
+<path d="M42 140H953" stroke="#31556a"/>
+<text x="43" y="161" class="desc">Analista de Suporte em transição de carreira para Cloud Computing e Infraestrutura.</text>
+<rect x="39" y="173" width="919" height="38" rx="9" fill="#16364c" opacity=".84"/>
+<circle cx="58" cy="192" r="4" fill="#ff9900"/>
+<text x="74" y="197" class="label">IDENTIDADE</text><text x="260" y="197" class="value">Diógenes Henrique</text>
+<circle cx="58" cy="239" r="4" fill="#44d7d6"/>
+<text x="74" y="244" class="label">CLASSE</text><text x="260" y="244" class="value">Analista de Suporte</text>
+<rect x="39" y="267" width="919" height="38" rx="9" fill="#16364c" opacity=".84"/>
+<circle cx="58" cy="286" r="4" fill="#ff9900"/>
+<text x="74" y="291" class="label">ORIGEM</text><text x="260" y="291" class="value">Analista de Suporte • Service Desk</text>
+<circle cx="58" cy="333" r="4" fill="#44d7d6"/>
+<text x="74" y="338" class="label">MISSÃO</text><text x="260" y="338" class="value">Transição para Cloud e Infraestrutura</text>
+<rect x="39" y="361" width="919" height="38" rx="9" fill="#16364c" opacity=".84"/>
+<circle cx="58" cy="380" r="4" fill="#ff9900"/>
+<text x="74" y="385" class="label">TECNOLOGIAS</text><text x="260" y="385" class="value">AWS • Linux • Redes • Java • SQL</text>
+<circle cx="58" cy="427" r="4" fill="#44d7d6"/>
+<text x="74" y="432" class="label">FERRAMENTAS</text><text x="260" y="432" class="value">Git • GitHub • VS Code • Zendesk</text>
+<rect x="39" y="455" width="919" height="38" rx="9" fill="#16364c" opacity=".84"/>
+<circle cx="58" cy="474" r="4" fill="#ff9900"/>
+<text x="74" y="479" class="label">HABILIDADES</text><text x="260" y="479" class="value">Troubleshooting • Comunicação • Organização</text>
+<circle cx="58" cy="521" r="4" fill="#44d7d6"/>
+<text x="74" y="526" class="label">PRÓXIMO MARCO</text><text x="260" y="526" class="value">AWS Cloud Practitioner • Em preparação</text>
+<rect x="40" y="574" width="919" height="3" rx="2" fill="url(#stripe)" opacity=".8"/>
+<text x="43" y="594" font-family="Arial,sans-serif" font-size="11" fill="#89aebe">ESTUDAR  •  PRATICAR  •  EVOLUIR</text>
+</svg>
