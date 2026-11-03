@@ -1,7 +1,12 @@
 
 <div align="center">
   <img src="./banner-aws-estudante.svg" width="100%" alt="Banner AWS Cloud - DIOGENES HENRIQUE">
+</div> 
+
+<div align="center">
+  <img src="./aws-servicos.svg" width="100%" alt="Meus estudos em AWS Cloud">
 </div>
+
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNIBRA – Centro Universitário Brasileiro, atualmente no 2º período.
 
