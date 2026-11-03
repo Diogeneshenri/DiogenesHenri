@@ -30,8 +30,9 @@
 
 <br>
 
+
 <!-- 6. CERTIFICAÇÕES AWS E REDES -->
-<img src="./certificacoes-progresso.svg" width="100%" alt="AWS Cloud Practitioner, Solutions Architect, Cisco CCNA e CompTIA Network+">
+<img src="./certificacoes-aws-redes.svg" width="100%" alt="Minhas próximas certificações AWS e Redes">
 
 <br>
 
