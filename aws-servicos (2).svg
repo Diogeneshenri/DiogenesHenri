@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-label="Meus estudos em AWS: IAM, EC2, S3, VPC, CloudWatch, CloudTrail, Systems Manager e Athena">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071523"/><stop offset="1" stop-color="#173247"/></linearGradient></defs>
+<rect width="1200" height="690" rx="26" fill="url(#bg)"/>
+<rect x="28" y="28" width="1144" height="634" rx="22" fill="none" stroke="#365b73" stroke-width="2"/>
+<circle cx="74" cy="84" r="9" fill="#ff9900"/>
+<text x="104" y="99" fill="#ffffff" font-family="Arial,sans-serif" font-weight="bold" font-size="43">MEUS ESTUDOS EM AWS</text>
+<text x="104" y="143" fill="#ffb24b" font-family="Arial,sans-serif" font-size="23">Serviços que estou conhecendo e praticando em laboratório</text>
+<g font-family="Arial,sans-serif">
+<rect x="60" y="185" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="78" y="206" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="545" cy="213" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.00s" repeatCount="indefinite"/></circle>
+<text x="104" y="225" fill="white" font-weight="bold" font-size="27">IAM</text>
+<text x="104" y="257" fill="#b8cedb" font-size="19">Identidades e permissões</text>
+<rect x="610" y="185" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="628" y="206" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="1095" cy="213" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.15s" repeatCount="indefinite"/></circle>
+<text x="654" y="225" fill="white" font-weight="bold" font-size="27">EC2</text>
+<text x="654" y="257" fill="#b8cedb" font-size="19">Servidores virtuais</text>
+<rect x="60" y="298" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="78" y="319" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="545" cy="326" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.30s" repeatCount="indefinite"/></circle>
+<text x="104" y="338" fill="white" font-weight="bold" font-size="27">S3</text>
+<text x="104" y="370" fill="#b8cedb" font-size="19">Armazenamento de objetos</text>
+<rect x="610" y="298" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="628" y="319" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="1095" cy="326" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.45s" repeatCount="indefinite"/></circle>
+<text x="654" y="338" fill="white" font-weight="bold" font-size="27">VPC</text>
+<text x="654" y="370" fill="#b8cedb" font-size="19">Redes na nuvem</text>
+<rect x="60" y="411" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="78" y="432" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="545" cy="439" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.60s" repeatCount="indefinite"/></circle>
+<text x="104" y="451" fill="white" font-weight="bold" font-size="27">CloudWatch</text>
+<text x="104" y="483" fill="#b8cedb" font-size="19">Métricas, logs e alarmes</text>
+<rect x="610" y="411" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="628" y="432" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="1095" cy="439" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.75s" repeatCount="indefinite"/></circle>
+<text x="654" y="451" fill="white" font-weight="bold" font-size="27">CloudTrail</text>
+<text x="654" y="483" fill="#b8cedb" font-size="19">Registro de atividades</text>
+<rect x="60" y="524" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="78" y="545" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="545" cy="552" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="2.90s" repeatCount="indefinite"/></circle>
+<text x="104" y="564" fill="white" font-weight="bold" font-size="27">Systems Manager</text>
+<text x="104" y="596" fill="#b8cedb" font-size="19">Gerenciamento de instâncias</text>
+<rect x="610" y="524" width="520" height="96" rx="15" fill="#10283b" stroke="#375a70" stroke-width="2"/>
+<rect x="628" y="545" width="7" height="54" rx="3" fill="#ff9900"/>
+<circle cx="1095" cy="552" r="6" fill="#ff9900"><animate attributeName="opacity" values=".3;1;.3" dur="3.05s" repeatCount="indefinite"/></circle>
+<text x="654" y="564" fill="white" font-weight="bold" font-size="27">Athena</text>
+<text x="654" y="596" fill="#b8cedb" font-size="19">Consultas SQL em dados</text>
+<text x="600" y="661" fill="#8bbad1" text-anchor="middle" font-size="13" letter-spacing="2">APRENDENDO • PRATICANDO • EVOLUINDO</text></g></svg>
